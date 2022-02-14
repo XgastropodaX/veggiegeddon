@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/biglobster.mp3-a205634acd276a5fb1a42a1c5722e9b9.mp3str"
+
+[deps]
+
+source_file="res://Assets/biglobster.mp3"
+dest_files=[ "res://.import/biglobster.mp3-a205634acd276a5fb1a42a1c5722e9b9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

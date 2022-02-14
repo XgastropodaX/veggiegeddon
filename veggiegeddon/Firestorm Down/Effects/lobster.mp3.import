@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/lobster.mp3-f5055e5ca677bb3f9ff78036ddbd7182.mp3str"
+
+[deps]
+
+source_file="res://Effects/lobster.mp3"
+dest_files=[ "res://.import/lobster.mp3-f5055e5ca677bb3f9ff78036ddbd7182.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
